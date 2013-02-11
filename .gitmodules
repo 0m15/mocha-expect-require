@@ -1,0 +1,9 @@
+[submodule "lib/require"]
+	path = lib/require
+	url = git://github.com/jrburke/requirejs.git
+[submodule "lib/expect.js"]
+	path = lib/expect.js
+	url = git://github.com/LearnBoost/expect.js.git
+[submodule "lib/mocha"]
+	path = lib/mocha
+	url = git://github.com/visionmedia/mocha.git
